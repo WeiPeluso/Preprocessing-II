@@ -332,6 +332,11 @@ header .main-img {
   width: 80%;
   margin-bottom: 30px;
 }
+@media (min-width: 500px) {
+  .home .content-pick .destination {
+    width: 25%;
+  }
+}
 .home .content-pick .btn {
   width: 80%;
   padding: 3%;
