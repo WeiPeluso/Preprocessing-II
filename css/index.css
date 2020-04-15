@@ -169,6 +169,7 @@ img {
 }
 header {
   height: 35vh;
+  border-bottom: 2px dashed #C0C0C0;
 }
 @media (min-width: 500px) {
   header {
